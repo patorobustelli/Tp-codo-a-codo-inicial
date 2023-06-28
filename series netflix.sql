@@ -1,1 +1,0 @@
-SELECT * FROM series_netflix_tp.series;
